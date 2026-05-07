@@ -5,4 +5,4 @@ Input: Gender, Age, Annual Income ($), Spending Score
 
 Model: KMeans
 
-Output: Clusters (1 to 4)
+Output: Clusters (0 to 4)
