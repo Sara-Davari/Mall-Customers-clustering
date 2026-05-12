@@ -12,9 +12,9 @@ How it works:
 2. View the dataset
 3. Standardize the data using Standard Scaler
 4. Creating KMeans model and cluster column
-5. drawing a 3d plot to show clusters
+5. Drawing a 3d plot to show clusters
 6. Creating PCA
-7. drawing a 2d plot to show the relationship between PCAs and clusters
+7. Drawing a 2d plot to show the relationship between PCAs and clusters
 8. Determining the average information of each columns for every cluster
 
 What I learned:
